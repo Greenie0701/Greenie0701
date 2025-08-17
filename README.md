@@ -1,4 +1,4 @@
-# 👋 Hi, my name is rossi in Git
+# 👋 Hi, my name is Rossi in Git
 
 ---
 
