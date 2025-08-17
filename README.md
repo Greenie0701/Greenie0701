@@ -1,16 +1,7 @@
 # 👋 Hi, my name is Rossi in Git
-
 ---
-
-## 🌐 Connect with me  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lowkeyrossi)  
-
----
-
-## 🚀 About Me  
-Passionate **Software Developer**, creating robust and scalable applications\algorithms for ARM.   
-
----
+## 📈 Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=lowkeyrossi&color=blue&style=flat-square)
 
 ## ⚡ Rapid Fire  
 - 💼 Currently working on: **Supporting unsupported python libraries for Windows on ARM devices**  
@@ -23,14 +14,10 @@ Passionate **Software Developer**, creating robust and scalable applications\alg
 ## 🛠 Skills  
 
 ### Languages & Frameworks  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)  
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)  
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)  
-
 
 ---
 
@@ -41,6 +28,4 @@ Passionate **Software Developer**, creating robust and scalable applications\alg
 
 ---
 
-## 📈 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=lowkeyrossi&color=blue&style=flat-square)
 
