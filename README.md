@@ -1,4 +1,4 @@
-# 👋 Hi, my name is Rossi in Git
+# 👋 Hi, my name is Green in Git
 ---
 ## 📈 Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=lowkeyrossi&color=blue&style=flat-square)
