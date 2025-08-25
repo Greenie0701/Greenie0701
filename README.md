@@ -1,7 +1,7 @@
 # 👋 Hi, my name is Green in Git
 ---
 ## 📈 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=lowkeyrossi&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Greenie0701&color=blue&style=flat-square)
 
 ## ⚡ Rapid Fire  
 - 💼 Currently working on: **Supporting unsupported python libraries for Windows on ARM devices**  
@@ -12,10 +12,10 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lowkeyrossi&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Greenie0701&show_icons=true&theme=tokyonight)  
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lowkeyrossi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Greenie0701&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
