@@ -13,7 +13,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Greenie0701&show_icons=true&theme=tokyonight)  
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Greenie0701&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Greenie0701)](https://git.io/streak-stats)
 
 ---
 
