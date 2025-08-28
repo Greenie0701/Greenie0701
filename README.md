@@ -3,7 +3,7 @@
 
 ## ⚡ Rapid Fire  
 - 💼 Currently working on: **Supporting unsupported python libraries for Windows on ARM devices**  
-- 🌱 Currently learning: **Developing sort algorithms using ARM NEON intrinsics**  
+- 🌱 Currently learning: **Developing math routine for matrix/algebraic operations using ARM NEON intrinsics**  
 - 💬 Ask me about: **ARM, C, C++ and Python**  
 
 ---
