@@ -11,6 +11,8 @@
 
 <img alt="programming is rock n roll" src="./img/get-wild.gif" style="width: 100%; max-width:610px;" />
 
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,git,github,gitlab,cmake&perline=11)](#)
+
 ---
 
 ## Let’s Connect
