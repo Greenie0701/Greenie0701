@@ -13,11 +13,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,python,git,github,gitlab,cmake&perline=11)](#)
 
----
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Greenie0701&show_icons=true&theme=tokyonight)  
 
 ---
 
