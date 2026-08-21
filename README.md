@@ -3,7 +3,7 @@
 ---
 
 ## ⚡ Rapid Fire  
-- 💼 Currently working on: **Enabling Application Ecosystem for Windows on ARM devices and LLVM Backend for AARCH64**
+- 💼 Currently working on: **Enabling Application Ecosystem for Windows on ARM devices and Enhancing code quality and generaion for LLVM AARCH64 Backend**
 - 💼 Proudly presenting our WoA Python wheels support Issue tracker - https://github.com/khmyznikov/PyEnv-WoA-State/issues/1
 - 💬 Ask me about: **Custom LLVM Backend, ARM64, C, C++ and Python**  
 
